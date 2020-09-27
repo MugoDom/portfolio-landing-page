@@ -19,19 +19,34 @@
 
 }
 #navbar{
-    background-color: none;
+    background-color: black;
     overflow: hidden;
-    padding-left: 70%;
-    padding-top: 50px;
+    padding-left: 50%;
+    padding-top: 20px;
 }
 #navbar a{
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 25px;
+    text-align: center;
 
 }
-.profile{
-    width: 200px;
-    height: 200px;
-    padding-top: 40px;
+.profile-pic{
+    width: 50%;
+    height: 50%;
+    background-color: red;
 }
+
+.pf-img{
+    width: 25%;
+    padding: 15px;
+    float: left;
+    margin-right: 50px;
+}
+.top-writing{
+    width: 50%;
+    height: 50%;
+    background-color: seagreen;
+    margin: 100px auto 100px auto;
+}
+
