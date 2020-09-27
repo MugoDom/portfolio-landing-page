@@ -1,7 +1,7 @@
 # Dominic's Portfolio.
 #### Created on, 27.09.2020
 #### By **Mugo, Dominic**
-![GitHub Logo](images/profile-pic.png)
+![GitHub Logo](profile-pic.png)
 
 ## Description
 This is a portfolio blog I created as a part of my weekly indepedent project at Moringa School.
