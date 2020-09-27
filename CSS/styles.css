@@ -13,8 +13,8 @@
 
 }
 .bottom-container{
-    background-color: blue;
-    padding: 20%;
+    background-color: lightcyan;
+    padding: 0%;
     margin-top: 1%;
 
 }
@@ -69,10 +69,56 @@
     background-color: none;
     padding: 20px;
     margin-left: 30px;
-    
+    padding-left: 200px;
 }
 .hobbies-row{
     background-color: none;
     padding: 24px;
     margin-left: 30px;
+    padding-left: 200px;
+}
+.project-1{
+    background-color: lime;
+    width: 300px;
+    height: 300px;
+    margin-left: 0px;
+    padding-left: 20px;
+    display: inline-block;
+    padding: 20px 120px 20px 20px;
+    position: relative;
+    vertical-align: top;
+}
+.project-2{
+    background-color: magenta;
+    width: 300px;
+    height: 300px;
+    margin-left: 40px;
+    display: inline-block;
+    padding: 20px 120px 20px 20px;
+    position: relative;
+    vertical-align: top;
+    
+}
+.project-3{
+    background-color: mediumturquoise;
+    width: 300px;
+    height: 300px;
+    margin-left: 40px;
+    padding: 20px 120px 20px 20px;
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+}
+.dashboard-dams{
+    width: 300px;
+    height: 200px;
+}
+.dashboard-covid{
+    width: 300px;
+    height: 200px;
+
+}
+.codes{
+    width: 300px;
+    height: 200px;
 }
