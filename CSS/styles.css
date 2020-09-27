@@ -5,6 +5,7 @@
 .top-container{
     background-color: lightcyan;
     padding: 20px;
+    margin-top: 1%;
 }
 .middle-container{
     background-color: lightcyan;
@@ -121,4 +122,12 @@
 .codes{
     width: 300px;
     height: 200px;
+}
+.footer{
+    background-color: lightcyan;
+    margin-top: 1%;
+}
+hr{
+    padding: 20px;
+    border: none;
 }
