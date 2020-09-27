@@ -1,23 +1,30 @@
-body{
-    margin: 0%;
+.body{
+    margin: 0;
+    font-family: fantasy;
 }
-img{
-    width: 200px;
-    height: 200px;
-}
-div{
+.top-container{
     background-color: lightblue;
     padding: 20px;
 }
-.topnav{
-    background-color: royalblue;
-  overflow: hidden;
+.middle-container{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+
 }
-.topnav a {
+.bottom-container{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+
+}
+#navbar{
+    background-color: cyan;
+    overflow: hidden;
+    position: relative;
+}
+#navbar a{
     float: right;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
+    padding: 14px;
+
+}
