@@ -3,7 +3,7 @@
     font-family: fantasy;
 }
 .top-container{
-    background-color: lightblue;
+    background-color: lightcyan;
     padding: 20px;
 }
 .middle-container{
@@ -19,7 +19,7 @@
 
 }
 #navbar{
-    background-color: black;
+    background-color: none;
     overflow: hidden;
     padding-left: 50%;
     padding-top: 20px;
@@ -29,24 +29,26 @@
     text-decoration: none;
     font-size: 25px;
     text-align: center;
+    margin:30% 0% 0% 0%; 
 
 }
 .profile-pic{
     width: 50%;
     height: 50%;
-    background-color: red;
+    background-color: none;
 }
 
 .pf-img{
     width: 25%;
     padding: 15px;
     float: left;
-    margin-right: 50px;
+    margin-left: 10%;
 }
 .top-writing{
     width: 50%;
     height: 50%;
-    background-color: seagreen;
-    margin: 100px auto 100px auto;
+    background-color: none;
+    margin: 60px auto 70px auto;
+    font-family: fantasy;
 }
 
