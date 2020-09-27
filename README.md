@@ -6,9 +6,10 @@
 ## Description
 This is a portfolio blog I created as a part of my weekly indepedent project at Moringa School.
 
-## Technologies used.
-Html and css technologies is used to develop the portfolio site.
-Git is used on the other side as the version control for tracking changes on the local and remote repository.
+## Technologies Used.
+* Html for page content
+* CSS to style the page
+* GIT is used as the version control for tracking changes on the local and remote repository.
 
 ## Procedure for development And deployment to git pages.
 Html file first created to give the site a structure then styles added using css as the changes are being tracked continously using git.
@@ -24,9 +25,9 @@ Html file first created to give the site a structure then styles added using css
 * Then push to the remote repository on github.**git push origin master**.
 
 ## Accessing the portfolio.
-The site can be viewed from here [dery's blog](https://muriithiderro.github.io/portfolio/) or [portfolio github repository](https://github.com/muriithiderro/portfolio).
+The site can be viewed from here (https://mugodom.github.io/portfolio-landing-page/)
 
 ### License
 *The site and materials can be accessed by the public freely*
 
-Copyright (c) 2018 **[Derrick](https://github.com/muriithiderro)**
+Copyright (c) 2020 **[Dominic](https://github.com/MugoDom)**
