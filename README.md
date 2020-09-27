@@ -1,7 +1,7 @@
 # Dominic's Portfolio.
 #### Created on, 27.09.2020
 #### By **Mugo, Dominic**
-![GitHub Logo](images/profile-pic.png.jpg)
+![GitHub Logo](images/profile-pic.png)
 
 ## Description
 This is a portfolio blog I created as a part of my weekly indepedent project at Moringa School.
@@ -25,7 +25,7 @@ Html file first created to give the site a structure then styles added using css
 * Then push to the remote repository on github.**git push origin master**.
 
 ## Accessing the portfolio.
-The site can be viewed from here (https://mugodom.github.io/portfolio-landing-page/)
+The site can be viewed from [here](https://mugodom.github.io/portfolio-landing-page/)
 
 ### License
 *The site and materials can be accessed by the public freely*
