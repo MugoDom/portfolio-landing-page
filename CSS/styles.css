@@ -1,9 +1,9 @@
 .body{
-    margin: 10px;
+    margin: 5px;
     font-family: fantasy;
 }
 .top-container{
-    background-color: lightcyan;
+    background-color:#F8F5F1;
     padding: 20px;
     margin-top: 0%;
 }
@@ -22,21 +22,27 @@
 #navbar{
     background-color: none;
     overflow: hidden;
-    padding-left: 50%;
-    padding-top: 20px;
+    padding-left: 60%;
+    padding-top: 20px;    
 }
+
 #navbar a{
     padding: 14px 16px;
     text-decoration: none;
     font-size: 25px;
     text-align: center;
     margin:30% 0% 0% 0%; 
+    font-family: 'Grechen Fuemen', cursive;
+    
+    
 
 }
 .profile-pic{
     width: 50%;
     height: 50%;
     background-color: none;
+    position: absolute;
+    left: 100px;
 }
 
 .pf-img{
@@ -45,20 +51,25 @@
     float: left;
     margin-left: 10%;
 }
-.top-writing{
-    width: 50%;
-    height: 50%;
+.about-me{
     background-color: none;
-    margin: 60px auto 70px auto;
+    width: fit-content;
+}
+.top-writing{
+    width: 300px;
+    height: 150px;
+    margin: 220px auto 70px 110px;
     font-family: fantasy;
+    display: inline-block;
 }
 .mid-container-about{
-    width: 50%;
-    height: 50%;
+    width: 386px;
+    height: 300px;
     background-color: none;
     position: absolute;
-    padding: 1%;
-    margin-right: 10%;
+    padding: 12px;
+    left: 450px;
+    bottom: 200px;
 
 }
 .skill-hobbies{
